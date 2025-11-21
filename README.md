@@ -1,3 +1,3 @@
 # aditya
 first repo
-author Adiitya Prataop Tiwari
+author Aditya Pratap Tiwari
